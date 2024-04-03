@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <network-security-config clearTextTrafficPermitted = "true">
+        <base-config includeSubdomains = "true">api.themoviedb.org</base-config>
+    </network-security-config>
+

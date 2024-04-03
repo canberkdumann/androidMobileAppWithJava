@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "669312508330",
+    "project_id": "mymoviehome98",
+    "storage_bucket": "mymoviehome98.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:669312508330:android:8bcb514342a46b75118bd3",
+        "android_client_info": {
+          "package_name": "com.example.mymoviehome"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "669312508330-a2gickat2ad0o88bm8jsrii57b4g8dcs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbMEmYllW94DBsEEhzFwQ1v9-wXcYnp6Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "669312508330-a2gickat2ad0o88bm8jsrii57b4g8dcs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
